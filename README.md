@@ -16,7 +16,7 @@ Hardware:
 - M5Stack Mini RFID Reader/Writer Unit
 
 Software
-- Debian 7
+- Debian 7 (Linux) 
 
 # Links for items used
 
