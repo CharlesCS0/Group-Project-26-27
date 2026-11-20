@@ -3,7 +3,7 @@ Year 2 Cyber Security group project 26/27.
 
 ---
 
-# Biometrically Enabled RFID Card
+# Biometrically Enabled RFID Card 
 
 ## Current Equipment:
 - Pi4 4GB
