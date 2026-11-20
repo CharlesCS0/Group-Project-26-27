@@ -1,4 +1,4 @@
-# TRUR2193/TRUR2300 System Development Project
+# TRUR2193 - System Development Project
 Year 2 Cyber Security group project 26/27.
 
 ---
